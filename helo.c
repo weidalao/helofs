@@ -1,5 +1,6 @@
 /*
  *  helo.c - Hello world filesystem for Linux
+ *  this is weidalao test------------
  */
 #include <linux/fs.h>
 #include <linux/dcache.h>
